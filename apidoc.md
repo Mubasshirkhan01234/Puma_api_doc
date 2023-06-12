@@ -90,7 +90,7 @@
 * https://puma-i1u3.onrender.com/filter3/3?lcost=1000&hcost=5000
 
 //Kids wear
- https://puma-i1u3.onrender.com/filter4/4?lcost=1000&hcost=5000
+* https://puma-i1u3.onrender.com/filter4/4?lcost=1000&hcost=5000
 
 //Sports
 * https://puma-i1u3.onrender.com/filter5/5?lcost=1000&hcost=5000
