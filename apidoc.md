@@ -81,7 +81,7 @@
 > List of merchandise wrt to Price
 
 //Accessories
-* https://puma-i1u3.onrender.com/filter/1?lcost=1000&hcost=2000
+* https://puma-i1u3.onrender.com/filter1/1?lcost=1000&hcost=2000
 
 //Women wear
 * https://puma-i1u3.onrender.com/filter2/2?lcost=1000&hcost=5000
